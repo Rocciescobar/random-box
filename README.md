@@ -8,7 +8,7 @@
 
 ## Objetivo 
 
-Random Box es un contenedor que de manera aleatoria cambia de color y tamaño de texto cada vez que recargas la página (F5).
+Random Box es un contenedor/caja que de manera aleatoria cambia de color y tamaño de texto cada vez que se recarga la página (F5).
 
 ## Especificaciones
 
